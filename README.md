@@ -1,5 +1,4 @@
 # IMDB-Movie-Analysis
-IMDB Movie data analysis using Excel and Power BI
 📊 IMDB Movie Analysis – Excel and Power BI Project  
 📌 Project Overview
 This project explores the IMDb top movies dataset to understand audience preferences and industry trends over time. It provides a comprehensive analysis of the factors that lead to higher ratings and greater commercial success. The goal of this project is to transform raw data into meaningful insights through interactive visualizations and dashboards. The dataset was cleaned using Excel and Power Query, and interactive visualizations were created in Power BI to transform raw data into meaningful insights.
